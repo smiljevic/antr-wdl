@@ -1,2 +1,2 @@
-# antr-wdl
-ANTLR v4 grammars for WDL
+# antlr-wdl
+[ANTLR v4](https://www.antlr.org/) lexer and parser grammars for [WDL](https://software.broadinstitute.org/wdl/)
